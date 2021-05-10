@@ -1,0 +1,3 @@
+project: teaching_trout
+registry: data/registry.db
+provider: gcp
